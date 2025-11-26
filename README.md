@@ -43,6 +43,7 @@ https://wangilawakhongola.github.io/MyPortfolio/
 ## 💬 Let’s Connect:
 - [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/emmanuel-wakhongola-334831278/)
 - [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/WangilaWakhongola)
+- - [![WhatsApp](https://img.icons8.com/color/50/000000/whatsapp.png)](https://wa.me/+254791952584)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
