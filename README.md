@@ -24,7 +24,7 @@ https://wangilawakhongola.github.io/MyPortfolio/
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=darkhub&column=4&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### My Achievements:
 - 🥇 Multi-Language Programmer
