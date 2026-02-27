@@ -31,7 +31,7 @@ I'm currently working on SkillSwap Map — a real-time, location-based platform 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### My Achievements:
 - 🥇 Multi-Language Programmer
@@ -39,6 +39,7 @@ I'm currently working on SkillSwap Map — a real-time, location-based platform 
 - 🥉 Follower Growth
 - 💎 Pull Request Contributor
 - ⭐ Commit Consistency
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -47,14 +48,10 @@ I'm currently working on SkillSwap Map — a real-time, location-based platform 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WangilaWakhongola&icon=0&color=0)](https://visitcount.itsvg.in)
-## 💬 Let’s Connect:
+
+## 💬 Let's Connect:
 - [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/emmanuel-wakhongola-334831278/)
 - [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/WangilaWakhongola)
 - [![WhatsApp](https://img.icons8.com/color/50/000000/whatsapp.png)](https://wa.me/+254791952584)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
