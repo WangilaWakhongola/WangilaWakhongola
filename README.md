@@ -31,7 +31,7 @@ I'm currently working on SkillSwap Map — a real-time, location-based platform 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My Achievements:
 - 🥇 Multi-Language Programmer
