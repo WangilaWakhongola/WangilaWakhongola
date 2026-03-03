@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-I'm currently working on SkillSwap Map — a real-time, location-based platform that helps people exchange practical skills within their local communities.<br>I love computer Science & Mathematics
+Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love computer Science & Mathematics
 
 
 
