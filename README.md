@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love computer Science & Mathematics
+Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science 
 
 
 
