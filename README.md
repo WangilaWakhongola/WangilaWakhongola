@@ -30,15 +30,11 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight&count_private=true)
-
-## 🏆 Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight)
 
-## 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?WangilaWakhongola&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -52,12 +48,6 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=WangilaWakhongola&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💬 Let's Connect:
 - [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/emmanuel-wakhongola-334831278/)
