@@ -32,15 +32,19 @@ Passionate about learning new technologies and building useful projects. Continu
 # 📊 GitHub Stats:
 <div align="center">
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&count_private=true&show_icons=true&hide_title=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=radical)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=WangilaWakhongola&theme=radical&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&show_icons=true&locale=en&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
+
+## 🔝 Top Contributed Repo
+
+<img src="https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
