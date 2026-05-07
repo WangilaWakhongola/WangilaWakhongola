@@ -28,27 +28,17 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=com <br/>
 
-<div align="center">
-
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&count_private=true&show_icons=true&hide_title=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=radical)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&show_icons=true&locale=en&layout=compact&theme=radical)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=WangilaWakhongola&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight)
-
-## 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
