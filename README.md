@@ -28,10 +28,17 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=TKsagake&count_private=true&show_icons=true&hide_title=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tksagake&theme=radical)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKsagake&show_icons=true&locale=en&layout=compact&theme=radical)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Starnoh254&theme=radical&no-frame=false&no-bg=true&margin-w=4)
