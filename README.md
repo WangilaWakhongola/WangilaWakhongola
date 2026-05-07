@@ -30,11 +30,15 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight&count_private=true)
+
+## 🏆 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight)
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?WangilaWakhongola&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
