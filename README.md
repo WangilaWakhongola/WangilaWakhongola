@@ -42,7 +42,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ---
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 
 <img src="https://github-contributor-stats.vercel.app/api?username=WangilaWakhongola&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 ## 🏆 GitHub Trophies
