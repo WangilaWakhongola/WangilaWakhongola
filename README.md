@@ -30,7 +30,7 @@ Passionate about learning new technologies and building useful projects. Continu
 # 📊 GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tksagake&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
