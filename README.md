@@ -30,6 +30,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Starnoh254&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
