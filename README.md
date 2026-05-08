@@ -30,7 +30,9 @@ Passionate about learning new technologies and building useful projects. Continu
 # 📊 GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=radical)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
