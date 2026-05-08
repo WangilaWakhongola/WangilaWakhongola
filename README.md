@@ -30,14 +30,14 @@ Passionate about learning new technologies and building useful projects. Continu
 # 📊 GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tksagake&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tksagake&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
