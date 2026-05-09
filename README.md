@@ -37,10 +37,6 @@ Passionate about learning new technologies and building useful projects. Continu
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # Contribution Activity
 
 <p align="center">
@@ -50,6 +46,10 @@ Passionate about learning new technologies and building useful projects. Continu
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 ### My Achievements:
 - 🥇 Multi-Language Programmer
