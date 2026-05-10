@@ -41,13 +41,13 @@ Passionate about learning new technologies and building useful projects. Continu
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WangilaWakhongola&bg_color=0d1117&color=f7b42c&line=f7b42c&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tksagake&bg_color=0d1117&color=f7b42c&line=f7b42c&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tksagake&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WangilaWakhongola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
