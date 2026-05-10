@@ -41,7 +41,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tksagake&bg_color=0d1117&color=f7b42c&line=f7b42c&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WangilsWakhongola&bg_color=0d1117&color=f7b42c&line=f7b42c&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
