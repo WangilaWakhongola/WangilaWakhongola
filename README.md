@@ -45,12 +45,6 @@ Passionate about learning new technologies and building useful projects. Continu
 
 </p>
 ---
-### My Achievements:
-- 🥈 Open Source Contributor
-- 🥉 Follower Growth
-- 💎 Pull Request Contributor
-- ⭐ Commit Consistency
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
