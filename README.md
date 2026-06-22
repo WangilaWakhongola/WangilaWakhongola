@@ -52,7 +52,6 @@ Passionate about learning new technologies and building useful projects. Continu
 
 
 ### My Achievements:
-- 🥇 Multi-Language Programmer
 - 🥈 Open Source Contributor
 - 🥉 Follower Growth
 - 💎 Pull Request Contributor
