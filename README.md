@@ -27,14 +27,6 @@ Passionate about learning new technologies and building useful projects. Continu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&hide_border=false)<br/>
-
-</div>
 
 ---
 # Contribution Activity
