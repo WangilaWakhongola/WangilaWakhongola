@@ -26,6 +26,16 @@ Passionate about learning new technologies and building useful projects. Continu
 ### **DevOps & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## 🏆 GitHub Stats:
+<div align="center">
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=TKsagake&count_private=true&show_icons=true&hide_title=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tksagake&theme=radical)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKsagake&show_icons=true&locale=en&layout=compact&theme=radical)
+
+</div>
 
 
 ---
