@@ -44,7 +44,9 @@ Passionate about learning new technologies and building useful projects. Continu
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WangilaWakhongola&bg_color=0d1117&color=f7b42c&line=f7b42c&point=ffffff&area=true&hide_border=true"/>
 
 </p>
+
 ---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
