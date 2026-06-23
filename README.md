@@ -29,7 +29,7 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center">
   
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&count_private=true&show_icons=true&hide_title=true&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=flo-cloud&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=radical)](https://git.io/streak-stats)
 
