@@ -29,9 +29,9 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wangila&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api?username=Wakhongola&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tksagake&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api?username=Tksagake&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tksagake&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 </div>
 
