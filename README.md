@@ -29,12 +29,9 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center">
   
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=ShamcyBens&count_private=true&show_icons=true&hide_title=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShamcyBens&theme=radical)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamcyBens&show_icons=true&locale=en&layout=compact&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api?username=ShamcyBens&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShamcyBens&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamcyBens&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
