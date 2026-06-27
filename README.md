@@ -31,7 +31,7 @@ Passionate about learning new technologies and building useful projects. Continu
   
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Starnoh254&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tksagake&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tksagake&theme=radical)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangilawakhongola&show_icons=true&locale=en&layout=compact&theme=radical)
 
