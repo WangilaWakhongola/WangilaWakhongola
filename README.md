@@ -33,7 +33,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&theme=dark&hide_border=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&v=2)
 
 </div>
 
