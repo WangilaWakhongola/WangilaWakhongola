@@ -29,7 +29,7 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Starnoh254&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilaliWakokha&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&theme=dark&v=2)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&theme=dark&hide_border=false&layout=donut)
 
