@@ -14,96 +14,17 @@ Passionate about learning new technologies and building useful projects. Continu
 
 
 # 💻 Tech Stack:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Tech Stack</title>
-  <style>
-    body { font-family: sans-serif; padding: 1.5rem; background: #fff; }
+### **Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-    @keyframes fadeSlideIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes pulse {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.06); box-shadow: 0 4px 14px rgba(0,0,0,0.18); }
-    }
-    @keyframes shimmer {
-      0% { background-position: -200% center; }
-      100% { background-position: 200% center; }
-    }
+### **Frontend & Mobile**
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-    h3 { font-size: 15px; font-weight: 500; margin: 0 0 8px; color: #111; }
-    .section { margin-bottom: 1.2rem; }
-    .badges { display: flex; flex-wrap: wrap; gap: 7px; }
+### **Backend & Database**
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-    .badge {
-      display: inline-flex; align-items: center; gap: 6px;
-      padding: 0 12px; height: 34px; border-radius: 5px;
-      font-size: 11px; font-weight: 700; letter-spacing: 0.07em;
-      text-transform: uppercase; color: #fff; cursor: pointer;
-      opacity: 0; position: relative; overflow: hidden;
-      animation: fadeSlideIn 0.4s ease forwards, pulse 2.8s ease-in-out infinite;
-      transition: transform 0.15s, box-shadow 0.15s, filter 0.15s;
-    }
-    .badge:hover { transform: translateY(-3px) scale(1.06); filter: brightness(1.12); }
-    .badge:active { transform: scale(0.97); }
-    .badge::after {
-      content: ''; position: absolute; inset: 0;
-      background: linear-gradient(105deg, transparent 40%, rgba(255,255,255,0.25) 50%, transparent 60%);
-      background-size: 200% 100%; opacity: 0;
-    }
-    .badge:hover::after { opacity: 1; animation: shimmer 0.55s ease forwards; }
-    .badge img { width: 16px; height: 16px; object-fit: contain; }
-
-    .badge:nth-child(1) { animation-delay: 0.05s, 0.5s; }
-    .badge:nth-child(2) { animation-delay: 0.12s, 0.9s; }
-    .badge:nth-child(3) { animation-delay: 0.19s, 1.3s; }
-    .badge:nth-child(4) { animation-delay: 0.26s, 1.7s; }
-    .badge:nth-child(5) { animation-delay: 0.33s, 2.1s; }
-  </style>
-</head>
-<body>
-
-  <div class="section">
-    <h3>Languages &amp; Core</h3>
-    <div class="badges">
-      <span class="badge" style="background:#3776AB"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="">Python</span>
-      <span class="badge" style="background:#3178C6"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="">TypeScript</span>
-    </div>
-  </div>
-
-  <div class="section">
-    <h3>Frontend &amp; Mobile</h3>
-    <div class="badges">
-      <span class="badge" style="background:#000"><img src="https://skillicons.dev/icons?i=nextjs" alt="">Next</span>
-      <span class="badge" style="background:#222"><img src="https://skillicons.dev/icons?i=react" alt="">React Native</span>
-      <span class="badge" style="background:#06B6D4"><img src="https://skillicons.dev/icons?i=tailwind" alt="">TailwindCSS</span>
-    </div>
-  </div>
-
-  <div class="section">
-    <h3>Backend &amp; Database</h3>
-    <div class="badges">
-      <span class="badge" style="background:#336791"><img src="https://skillicons.dev/icons?i=postgres" alt="">Postgres</span>
-      <span class="badge" style="background:#4479A1"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="">MySQL</span>
-    </div>
-  </div>
-
-  <div class="section">
-    <h3>DevOps &amp; Tools</h3>
-    <div class="badges">
-      <span class="badge" style="background:#FCC624;color:#222"><img src="https://skillicons.dev/icons?i=linux" alt="">Linux</span>
-      <span class="badge" style="background:#2496ED"><img src="https://skillicons.dev/icons?i=docker" alt="">Docker</span>
-      <span class="badge" style="background:#FF9900;color:#222"><img src="https://skillicons.dev/icons?i=aws" alt="">AWS</span>
-      <span class="badge" style="background:#F05032"><img src="https://skillicons.dev/icons?i=git" alt="">Git</span>
-    </div>
-  </div>
-
-</body>
-</html>
+### **DevOps & Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 🏆 GitHub Stats:
