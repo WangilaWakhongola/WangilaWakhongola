@@ -98,8 +98,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 🏆 GitHub Stats:
 <div align="center">
-<a href="http://www.github.com/WangilaWakhongola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&show_icons=true&locale=en&layout=compact&theme=radical).
+<a href="http://www.github.com/WangilaWakhongola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 
