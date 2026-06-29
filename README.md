@@ -98,8 +98,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 🏆 GitHub Stats:
 <div align="center">
-<a href="http://www.github.com/Celeekeybor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Celeekeybor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangilawakhongola&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+<a href="http://www.github.com/WangilaWakhongola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 
