@@ -18,13 +18,7 @@ Passionate about learning new technologies and building useful projects. Continu
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <!--React-->
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"
-        width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg"
       alt="icon" width="65" height="65" />
       <br>Python
@@ -90,11 +84,15 @@ Passionate about learning new technologies and building useful projects. Continu
         alt="MongoDB" />
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"
+        alt="Nodejs" />
+      <br>Nodejs
+      </td>
   </tr>
  </table>
 <br><br>
 </div>
-
 
 ## 🏆 GitHub Stats:
 <div align="center">
