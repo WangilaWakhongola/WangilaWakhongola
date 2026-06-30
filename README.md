@@ -101,8 +101,9 @@ Passionate about learning new technologies and building useful projects. Continu
 
 
 <!--
-<a href="https://github.com/WangilaWakhongola?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@WangilaWakhongola's github-readme-stats"/></a>
+<a href="https://github.com/bryton90?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bryton90&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
 -->
+
 
 <a href="https://github.com/WangilaWakhongola?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=WangilaWakhongola&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@WangilaWakhongola's github-readme-stats"/></a>
 <a href="https://github.com/WangilaWakhongola?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=WangilaWakhongola&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@WangilaWakhongola's github-readme-streak-stats"/></a>
