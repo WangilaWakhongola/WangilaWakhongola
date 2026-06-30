@@ -116,16 +116,6 @@ Passionate about learning new technologies and building useful projects. Continu
 <a href="https://github.com/issues?q=is%3Aissue+author%3Abryton90+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryton90&theme=github&hide_border=true"  width="64%" alt="@Vbryton90's profile-details"/></a>
 </p>
 
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@bryton90">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryton90&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
 </div>
 
 ---
