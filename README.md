@@ -79,10 +79,9 @@ Passionate about learning new technologies and building useful projects. Continu
         height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"
-        alt="jQuery" />
-      <br>jQuery
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"
@@ -97,8 +96,35 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 🏆 GitHub Stats:
 <div align="center">
- 
-<a href="http://www.github.com/wangilawakhongola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wangilawakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+ <p align="center">
+
+
+<!--
+<a href="https://github.com/bryton90?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bryton90&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/bryton90?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bryton90&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@bryton's github-readme-stats"/></a>
+<a href="https://github.com/bryton90?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bryton90&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@bryton's github-readme-streak-stats"/></a>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3Abryton90o+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryton90&theme=github_dark&utcOffset=4"  width="31%" alt="@bryton90's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Abryton90o+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryton90&theme=github&utcOffset=4"  width="31%" alt="@bryton90's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Abryton90+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryton90&theme=github_dark&hide_border=true"  width="64%" alt="@bryton90's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Abryton90+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryton90&theme=github&hide_border=true"  width="64%" alt="@Vbryton90's profile-details"/></a>
+</p>
+
+<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
+
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@bryton90">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryton90&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
 </div>
 
