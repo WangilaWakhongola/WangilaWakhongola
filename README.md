@@ -101,7 +101,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 
 <!--
-<a href="https://github.com/bryton90?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
+<a href="https://github.com/wangilawakhongola?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=wangilawakhongola&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
 -->
 
 
