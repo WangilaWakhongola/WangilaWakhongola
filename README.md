@@ -100,9 +100,7 @@ Passionate about learning new technologies and building useful projects. Continu
  <p align="center">
 
 
-<!--
-<a href="https://github.com/wangilawakhongola?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=wangilawakhongola&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
--->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EzequielFerreiraC&theme=prussian&utcOffset=8)
 <img src="https://github-readme-mwendwa.vercel.app/api?username=WangilaWakhongola&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EzequielFerreiraC&theme=prussian&hide_border=true)](https://git.io/streak-stats)
