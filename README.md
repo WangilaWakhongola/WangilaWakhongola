@@ -104,13 +104,6 @@ Passionate about learning new technologies and building useful projects. Continu
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WangilaWakhongola&theme=prussian&hide_border=true)(https://git.io/streak-stats)
 
 </p>
-
-<p align="center">
-
-
-<a href="https://github.com/issues?q=is%3Aissue+author%3AWangilaWakhongola+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WangilaWakhongola&theme=github&hide_border=true"  width="64%" alt="@VWangilaWakhongola's profile-details"/></a>
-</p>
-
 </div>
 
 ---
