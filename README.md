@@ -97,8 +97,8 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center"> 
 
-<img src="https://github-readme-mwendwa.vercel.app/api?username=WangilaWakhongola&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" /><br/>
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WangilaWakhongola&theme=prussian&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WangilaWakhongola&theme=prussian&utcOffset=8) |
+<img src="https://github-readme-mwendwa.vercel.app/api?username=wangilawakhongola&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" /><br/>
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wangilawakhongola&theme=prussian&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wangilawakhongola&theme=prussian&utcOffset=8) |
 | :-: | :-: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WangilaWakhongola&theme=prussian) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WangilaWakhongola&theme=prussian)  |
 
