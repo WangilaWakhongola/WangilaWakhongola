@@ -98,8 +98,14 @@ Passionate about learning new technologies and building useful projects. Continu
 <div align="center"> 
 
 
-<img src="https://github-readme-mwendwa.vercel.app/api?username=WangilaWakhongola&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" /><br/>
+<img src="https://github-readme-mwendwa.vercel.app/api?username=WangilaWakhongola&show_icons=true&count_private=true&line_height=20&theme=tokyonight" alt="GitHub Stats" />
+<br/>
 
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=TKsagake&count_private=true&show_icons=true&hide_title=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tksagake&theme=radical)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKsagake&show_icons=true&locale=en&layout=compact&theme=radical)
 
 
 </div>
