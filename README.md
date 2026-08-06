@@ -97,7 +97,7 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center"> 
 
- [![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=wangilawakhongola&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-dark&title_color=00b3ff)](#)
+ [![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=wangilawakhongola&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 <a href="http://www.github.com/Celeekeybor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wangilawakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
