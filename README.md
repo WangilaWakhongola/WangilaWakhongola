@@ -103,6 +103,10 @@ Passionate about learning new technologies and building useful projects. Continu
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wangilawakhongola&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 
 </div>
