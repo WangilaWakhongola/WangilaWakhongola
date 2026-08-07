@@ -95,7 +95,7 @@ Passionate about learning new technologies and building useful projects. Continu
 </div>
 
 ## 🏆 GitHub Stats:
-<div align="center"> 
+<div align=""> 
 
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=wangilawakhongola&show_icons=true&theme=tokyonight&hide_border=true" /></br>
   
