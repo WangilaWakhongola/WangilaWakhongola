@@ -99,9 +99,9 @@ Passionate about learning new technologies and building useful projects. Continu
 
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight&hide_border=true" /></br>
   
-<a href="http://www.github.com/Celeekeybor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wangilawakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></br>
+<a href="http://www.github.com/Celeekeybor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WangilaWakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></br>
 
-  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=wangilawakhongola&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
