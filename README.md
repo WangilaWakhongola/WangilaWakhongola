@@ -47,7 +47,6 @@ Passionate about learning new technologies and building useful projects. Continu
         <img src="https://techstack-generator.vercel.app/django-icon.svg"
         alt="icon" width="65" height="65" />
       <br>Django</td>
-  </tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"
         alt="Nodejs" />
