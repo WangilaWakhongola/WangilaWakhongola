@@ -18,11 +18,11 @@ Passionate about learning new technologies and building useful projects. Continu
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"
-        alt="Nodejs" />
-      <br>Nodejs
-      </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"
+        width="65" height="65" />
+      <br>React
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg"
       alt="icon" width="65" height="65" />
@@ -43,16 +43,16 @@ Passionate about learning new technologies and building useful projects. Continu
         alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode"
-        width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg"
         alt="icon" width="65" height="65" />
       <br>Django</td>
   </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"
+        alt="Nodejs" />
+      <br>Nodejs
+      </td>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg"
