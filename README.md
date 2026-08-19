@@ -17,7 +17,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="left">
   <tr>
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"
