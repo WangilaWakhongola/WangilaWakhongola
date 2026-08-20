@@ -96,14 +96,13 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 🏆 GitHub Stats:
 <div align="center"> 
+  
+ [![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=wangilawakhongola&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wangilawakhongola&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight&hide_border=true" /></br>
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=wangilawakhongola&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=WangilaWakhongola&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 
 
