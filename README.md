@@ -101,7 +101,7 @@ Passionate about learning new technologies and building useful projects. Continu
   
 <a href="http://www.github.com/Celeekeybor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wangilawakhongola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></br>
 
-  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
