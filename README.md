@@ -97,7 +97,7 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center"> 
   
-[![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=wakhongola&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=wangilawakhongola&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wangilawakhongola&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
