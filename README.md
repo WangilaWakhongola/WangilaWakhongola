@@ -96,12 +96,12 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 🏆 GitHub Stats:
 <div align="center"> 
-  <img src="https://github-stats-extended.vercel.app/api?username=WangilaWakhongola&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=wangilawakhongola&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=wangilawakhongola&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wangilawakhongola&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
