@@ -97,15 +97,18 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center"> 
   
-<a href="https://github.com/Ali-hey-0/Simulation">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
-</a></br>
-<a href="https://github.com/Ali-hey-0/ai-runtime-lab">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=ai-runtime-lab&theme=tokyonight&hide_border=true" width="48%" />
-</a></br>
-<a href="https://github.com/Ali-hey-0/audio-ai-field-guide">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=audio-ai-field-guide&theme=tokyonight&hide_border=true" width="48%" />
-</a>
+<img src="https://github-stats-extended.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=tokyo-night&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+
 
 </div>
 
