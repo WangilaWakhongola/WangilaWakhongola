@@ -97,14 +97,15 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center"> 
   
-[![John's github stats](https://github-readme-mwendwa.vercel.app/api?username=wangilawakhongola&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=wangilawakhongola&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=wangilawakhongola&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-
-
+<a href="https://github.com/Ali-hey-0/Simulation">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
+</a></br>
+<a href="https://github.com/Ali-hey-0/ai-runtime-lab">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=ai-runtime-lab&theme=tokyonight&hide_border=true" width="48%" />
+</a></br>
+<a href="https://github.com/Ali-hey-0/audio-ai-field-guide">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=audio-ai-field-guide&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
 </div>
 
