@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=Let's+code...;Let's+innovate...;Let's+create..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=Greetings+Let's+code...;Let's+innovate...;Let's+create..." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Wangila Wakhongola 👋</h1>
