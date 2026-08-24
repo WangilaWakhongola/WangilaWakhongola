@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=Greetings...;Let's+innovate...;Let's+create..." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Wangila Wakhongola 👋</h1>
+<h1 align="center">Bonjour👋, I'm Wangila Wakhongola </h1>
 <p align="center">
   <em>Tech Enthusiast | Lifelong Learner</em>
 </p>
