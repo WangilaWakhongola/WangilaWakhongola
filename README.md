@@ -109,7 +109,7 @@ Passionate about learning new technologies and building useful projects. Continu
 
 <p align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WangilaWakhongola&theme=react-dark&hide_border=false&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wangilawakhongola&theme=react-dark&hide_border=false&area=true)
 
 </p>
 
