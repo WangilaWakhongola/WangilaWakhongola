@@ -95,7 +95,7 @@ Passionate about learning new technologies and building useful projects. Continu
 </div>
 
 ## 🏆 GitHub Stats:
-<div align="center"> 
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=wangilawakhongola&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=tokyonight&hide_border=true" width="48%" />
 
@@ -106,10 +106,7 @@ Passionate about learning new technologies and building useful projects. Continu
 </div>
 
 ### ✍️ Random Dev Quote
-<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 💬 Let's Connect:
 - [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/emmanuel-wakhongola-334831278/)
