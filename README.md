@@ -104,15 +104,6 @@ Passionate about learning new technologies and building useful projects. Continu
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
-
-# Contribution Activity
-
-<p align="left">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wangilawakhongola&theme=react-dark&hide_border=false&area=true)
-
-</p>
-
 ---
 
 ### ✍️ Random Dev Quote
