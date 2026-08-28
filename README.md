@@ -104,7 +104,6 @@ Passionate about learning new technologies and building useful projects. Continu
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
