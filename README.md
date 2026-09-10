@@ -96,14 +96,21 @@ Passionate about learning new technologies and building useful projects. Continu
 
 ## 🏆 GitHub Stats:
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=wangilawakhongola&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=WangilaWakhongola&theme=tokyonight&hide_border=true" width="48%" />
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahdiKordian&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahdiKordian&theme=tokyonight" height="180"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=MahdiKordian&theme=tokyonight&hide_border=true&background=0A192F&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="60%"/>
+
+<br/>
+
 
 </div>
+
+
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
