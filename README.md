@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=wake...;up..;Eat...;Code...;Overthink...;Sleep....;Repeat... />
+  <img src="https://readme-typing-svg.herokuapp.comsize=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=wake...;up..;Eat...;Code...;Overthink...;Sleep....;Repeat... />
 </p>
 
 <h1 align="center">Bonjour👋, I'm Wangila Wakhongola </h1>
