@@ -3,7 +3,7 @@
 <h3 align="center">Tech Enthusiast · Python Developer · Lifelong Learner</h3>
 
 <p align="center"><em>Where curiosity meets code, and learning turns into building.</em></p>
-<img width="640" height="352" alt="python-creative" src="https://github.com/user-attachments/assets/6d02ef6b-e7b0-4fa2-bc06-929b1ca5cbf5" />
+<p align="center"><img width="640" height="352" alt="python-creative" src="https://github.com/user-attachments/assets/6d02ef6b-e7b0-4fa2-bc06-929b1ca5cbf5" /></p>
 
 # 💫 About Me:
 Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science 
