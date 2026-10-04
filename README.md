@@ -5,7 +5,7 @@
 <p align="center"><em>Where curiosity meets code, and learning turns into building.</em></p>
 
 <p align="center">
- <p align="center"><img src="code-typing.svg" width="500" alt="Python code" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/WangilaWakhongola/WangilaWakhongola/main/code-typing.svg" width="500" alt="Python code" /></p>
 </p> 
 
 # 💫 About Me:
