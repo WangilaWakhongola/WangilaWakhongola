@@ -5,8 +5,8 @@
 <p align="center"><em>Where curiosity meets code, and learning turns into building.</em></p>
 
 <p align="center">
-<p align="center"><img src="https://raw.githubusercontent.com/WangilaWakhongola/WangilaWakhongola/main/code-typing.svg" width="500" alt="Python code" /></p>
-</p> 
+  <img src="https://raw.githubusercontent.com/WangilaWakhongola/WangilaWakhongola/main/python-running.gif" width="500" alt="Python code running" />
+</p>
 
 # 💫 About Me:
 Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science 
