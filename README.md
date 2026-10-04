@@ -1,15 +1,17 @@
+<h1 align="center">Wangila Wakhongola</h1>
+
+<h3 align="center">Tech Enthusiast · Python Developer · Lifelong Learner</h3>
+
+<p align="center"><i>Where curiosity meets code, and learning turns into building.</i></p>
+
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=Wake+Up...;Eat...;Code...;Overthink...;Sleep....;Repeat+again..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF7F&background=161B22&center=false&vCenter=true&multiline=true&repeat=true&width=460&height=170&lines=from+skills+import+learn,+build;;while+True:;%C2%A0%C2%A0%C2%A0%C2%A0learn(%22python%22);%C2%A0%C2%A0%C2%A0%C2%A0build(%22something_useful%22)" alt="Python typing animation" />
 </p>
 
-<h1 align="center">Bonjour👋, I'm Wangila Wakhongola </h1>
-<p align="center">
-  <em>Tech Enthusiast | Lifelong Learner</em>
-</p>
+## 💫 About Me:
 
-
-# 💫 About Me:
-Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science 
+Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.  
+I love Computer & Science
 
 
 
