@@ -3,21 +3,9 @@
 <h3 align="center">Tech Enthusiast · Python Developer · Lifelong Learner</h3>
 
 <p align="center"><em>Where curiosity meets code, and learning turns into building.</em></p>
+<img width="700" height="428" alt="python-running" src="https://github.com/user-attachments/assets/03dfff6b-bc94-45ed-945b-ac6d02c5aea3" />
 
-<p align="center">
- <h1 align="center">Wangila Wakhongola</h1>
 
-<h3 align="center">Tech Enthusiast · Python Developer · Lifelong Learner</h3>
-
-<p align="center"><em>Where curiosity meets code, and learning turns into building.</em></p>
-
-<p align="center">
-  <img src="python-running.gif" width="500" alt="Python code running" />
-</p>
-
-## 💫 About Me:
-Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science>
-</p>
 
 # 💫 About Me:
 Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science 
