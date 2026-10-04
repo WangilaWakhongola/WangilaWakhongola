@@ -6,11 +6,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF7F&background=161B22&center=false&vCenter=true&multiline=true&repeat=true&width=460&height=170&lines=from+skills+import+learn,+build;;while+True:;%C2%A0%C2%A0%C2%A0%C2%A0learn(%22python%22);%C2%A0%C2%A0%C2%A0%C2%A0build(%22something_useful%22)" alt="Python code" />
-</p>
-## 💫 About Me:
+</p> 
 
-Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.  
-I love Computer & Science
+# 💫 About Me:
+Passionate about learning new technologies and building useful projects. Continuously developing my knowledge in computer science and programming.<br>I love Computer & Science 
 
 
 
