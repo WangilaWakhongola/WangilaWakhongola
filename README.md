@@ -94,16 +94,18 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center">
 
-<!-- Row 1: Streak Stats & Commit Activity -->
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/wangilawakhongola/wangilawakhongola/blob/main/header.svg/github-stats.svg" />
+      <img src="https://github-readme-stats.vercel.app/api?username=wangilawakhongola&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
-   
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=wangilawakhongola&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
   </tr>
 </table>
 
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
