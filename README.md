@@ -94,15 +94,15 @@ Passionate about learning new technologies and building useful projects. Continu
 ## 🏆 GitHub Stats:
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WangilaWakhongola&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WangilaWakhongola&theme=tokyonight" height="180"/>
-
-
-
-</div>
-
-
-<br/>
+<!-- Row 1: Streak Stats & Commit Activity -->
+<table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/github-stats.svg" />
+    </td>
+   
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
