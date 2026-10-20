@@ -106,6 +106,7 @@ Passionate about learning new technologies and building useful projects. Continu
 </table>
 
 </div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
