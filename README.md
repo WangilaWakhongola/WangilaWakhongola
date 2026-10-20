@@ -98,7 +98,7 @@ Passionate about learning new technologies and building useful projects. Continu
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/github-stats.svg" />
+      <img src="https://github.com/wangilawakhongola/wangilawakhongola/blob/main/header.svg/github-stats.svg" />
     </td>
    
   </tr>
